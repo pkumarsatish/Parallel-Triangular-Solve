@@ -1,4 +1,4 @@
-# MPI - triangular solver
-## Parallel triangular solver for sparse system based on huriestic approach [Read the report for algorithm details]
+# Parallel-Triangular-Solve
+Here, we used a huriestic approach to parallelize the triangular system. We mix MPI and CUDA to get optimal performance.
 
-This repository needs heavy maintenance. A documemented version of the program will be updated later.
+For complete problem statment, algorithm used and the preliminary tests performed, please take a look at se294_projectReport.pdf.
